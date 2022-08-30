@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wxa8269e21cc02396e",
+"app_secret": "46347670f4a03b176ba5021331c5a9e6",
+
+"template_id": "A_8TjFtK0X61CK8_ev9Y1z5nsSabZiRTa8PlL63WN7Q",
+
+"user_id": ["oJEkj56u2JURhUmYL-nBhLRFqyWo" , "oJEkj5xeQfoToEbQ3P333pWIKypY"],
+
+"C_ShengFen": "陕西",
+"C_ChengShi": "西安",
+"S_XingZuo": "水瓶座",
+
+"S_Love": "2020-10-30",
+"birthday1": "2001-02-02",
+"birthday2": "2002-09-26",
+
+"C_String01": "自信是英雄的本质",
+"C_String02": "有信念的人经得起任何风暴",
+"C_String03": "通过云端的道路，只亲吻攀登者的足迹",
+
+
+# 天气预报
+"API_TQYB":"cdf420088475bb215ac4b4b9e15ae647",
+# 星座运势
+"API_XZYS":"cdf420088475bb215ac4b4b9e15ae647",
+
+# 早安心语
+"API_ZAXY":"cdf420088475bb215ac4b4b9e15ae647",
+# 晚安心语
+"API_WAXY":"cdf420088475bb215ac4b4b9e15ae647",
+
+# 舔狗日记
+"API_TGRJ":"cdf420088475bb215ac4b4b9e15ae647",
+# 土味情话
+"API_TWQH":"cdf420088475bb215ac4b4b9e15ae647"
+}
